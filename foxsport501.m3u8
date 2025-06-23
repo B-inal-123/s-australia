@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1,
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76213&extension=ts&play_token=phkIOqkw1F
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605601

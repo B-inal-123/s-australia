@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1,
+http://line.extraott-iptv.com:88/2755789541/1300714776/190999
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C8:8A:19&stream=554742&extension=ts
